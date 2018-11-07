@@ -4,6 +4,5 @@
 
 # 获取当前的mysql版本
 
-
-source ./mysql-function.sh
+source /script/shell/mysql-function.sh
 check_mysql_version $1
